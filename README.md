@@ -11,13 +11,13 @@
 ## Introduction
 
 In this workshop you will be introduced to Unity, a powerful cross-platform game
-engine which facilitates the construction of rich interactive scenes. You'll
-also familiarise yourself with the process we'll follow for subsequent workshops -- namely,
+engine which facilitates the construction of rich interactive scenes. You will
+also familiarise yourself with the process that we'll follow for subsequent workshops -- namely,
 cloning and opening a Unity project from GitHub.
 
 The root directory of this repository is a Unity project that we've already
 created for you.
-After cloning the repository to your computer, you're going to open it in Unity.
+After cloning the repository to your computer, open it in Unity.
 This can be done easily with *Unity Hub*, which
 is an application that manages Unity installations and projects on your
 computer (it
@@ -112,7 +112,7 @@ scripts.
 The `Change Color On Collision (Script)` component is an example of this. Click
 on the three dots in the top-right corner of the component, and select 'Edit
 Script' from the menu which appears.
-You should see the following code open up in Visual Studio (or equivalent):
+You should see the following code open up in Visual Studio (or any text editor):
 
 ```C#
 using UnityEngine;
